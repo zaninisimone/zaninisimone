@@ -11,7 +11,7 @@ user's life; i'm always up to listening to new ideas to improve life quality wit
 
 ## Projects
 
-### 🍴 (WIP) Freezery  <!-- [📄 Repo](<!-- Inserisci qui il link alla repository-->) -->
+### 🍴 (WIP) Freezery  <!-- [📄 Repo](<!-- Inserisci qui il link alla repository) -->
 What if you can manage your frozen food with just a few touch on your smartphone? This simple yet very useful app is build up specifically to help you
 managin frozen food, that's too often forgotten: you can fully customize freezers, food categories and products as you like, maintaining
 an extremely simple and user-friendly UX/UI, designed for every user.
