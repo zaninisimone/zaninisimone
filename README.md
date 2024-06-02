@@ -7,7 +7,7 @@ user's life; i'm always up to listening to new ideas to improve life quality wit
 [![Linkedin: Simone Zanini](https://img.shields.io/badge/-zaninisimone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zanini-simone)](https://www.linkedin.com/in/zanini-simone)
 [![GitHub zaninisimone](https://img.shields.io/github/followers/zaninisimone?label=follow&style=social)](https://github.com/zaninisimone)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zaninisimone&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zaninisimone&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Projects
 
